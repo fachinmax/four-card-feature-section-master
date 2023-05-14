@@ -13,4 +13,4 @@ Per la realizzazione del sito sono stati utilizzati i linguaggi:
 - HTML
 - CSS
 
-ed è stata utilizzata la metodologia CUBE CSS
+è stata utilizzata la metodologia CUBE CSS, è stata utilizzato SCSS come preprocessore e Parcel come web application bundler.
